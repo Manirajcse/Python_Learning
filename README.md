@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manirajcse&show_icons=true&locale=en" alt="manirajcse" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manirajcse&" alt="manirajcse" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manirajcse&" alt="manirajcse" /></p><br><br>
 
 <h2 align="left">My Status In GITHUB:</h2>
 <p align="left"></p>
