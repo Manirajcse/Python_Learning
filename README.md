@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maniraj</h1>
-<p align="center">**I am here to improve my skills😁 Here I Post codes what I learn Daily👀🔥 and I start my travel Now🐾😍 to became Zero😕😢 to Master😎🔥🔥 In My Career💪✨💥**</p>
+<p align="center"><b>I am here to improve my skills😁 Here I Post codes what I learn Daily👀🔥 and I start my travel Now🐾😍 to became Zero😕😢 to Master😎🔥🔥 In My Career💪✨💥</b>b</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manirajcse&label=Profile%20views&color=0e75b6&style=flat" alt="manirajcse" /> </p>
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=manirajcse&label=Profile%20views&color=0e75b6&style=flat" alt="manirajcse" /> </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manirajcse" alt="manirajcse" /></a> </p>
+<p align="left"> <small><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manirajcse" alt="manirajcse" /></a></small> </p>
 
 - 🌱 I’m currently learning **Programming Language(Python)**
 
