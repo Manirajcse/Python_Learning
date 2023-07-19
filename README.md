@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maniraj</h1>
-<p align="center"><b>I am here to improve my skills😁 Here I Post codes what I learn Daily👀🔥 and I start my travel Now🐾😍 to became Zero😕😢 to Master😎🔥🔥 In My Career💪✨💥</b></p>
+<p align="center"><b>I'm here to show off my skills😁. Here I post codes that I learn on a daily basis😍, and I am starting my journey🐾 to become a Zero to Master in my career🔥💪✨.</b></p>
 
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=manirajcse&label=Profile%20views&color=0e75b6&style=flat" alt="manirajcse" /> </h3>
 
