@@ -1,6 +1,6 @@
 # List[], Tuples(), Set{}
 # List = []
-names = ['maniraj', 'priya', 'rubi', 'maniraj']
+names = ['maniraj', 'Hari', 'Kathir', 'maniraj']
 print(names)
 
 #call particular value in list
